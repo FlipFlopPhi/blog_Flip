@@ -5,3 +5,5 @@ tagline: Flip's Blog voor de Big Data course
 ---
 
 Dit is mijn blog voor Big Data
+
+Assignment 2
